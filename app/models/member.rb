@@ -13,5 +13,4 @@ class Member
   def self.all 
     @@all 
   end
-  
 end
